@@ -36,3 +36,6 @@ every output from a component will be specified in artifact_entity.py
 
 
  14- create ml model here we will maintain custom loss custom model code etc here.
+16. craete database.py in conatsnts and there will be database name simple
+ 15. create mongodb_connect.py file which will ahve class and code of connecting with mongodb
+ 17. create main.py which will start executing project
